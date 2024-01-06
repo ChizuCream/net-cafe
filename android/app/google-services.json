@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271799014388",
+    "project_id": "authcafe-b98c3",
+    "storage_bucket": "authcafe-b98c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271799014388:android:c6739b0674cb5fd6a6dfa1",
+        "android_client_info": {
+          "package_name": "com.example.net_cafe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qURrN4G2hklTuJMYCoEqfJP-ox-Wi40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
